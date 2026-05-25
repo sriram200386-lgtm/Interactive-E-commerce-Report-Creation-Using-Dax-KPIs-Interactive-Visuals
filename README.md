@@ -1,0 +1,2 @@
+# Interactive-E-commerce-Report-Creation-Using-Dax-KPIs-Interactive-Visuals
+This project focuses on analyzing an e-commerce dataset using Power BI to generate meaningful business insights. Advanced DAX measures were created to calculate KPIs such as sales, profit, revenue growth, and customer performance. Interactive visualizations and dashboards were designed to improve data storytelling and decision-making.
